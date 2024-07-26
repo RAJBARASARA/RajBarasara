@@ -1,11 +1,11 @@
-## Hi there 👋
+# 💫 About Me:
 
 <!--
 **RAJBARASARA/RajBarasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-🔭 **I’m currently working on:**<br>Full-Stack Projects<br><br>
+🔭 **I’m currently working on:**<br>Improving My Full-Stack Skills<br><br>
  🌱 **I’m currently learning:**<br>MERN stack development<br><br>
  👯 **I’m looking to collaborate on:**<br> Full-Stack Development Projects.<br><br>
  💬 **Ask me about:**<br>My projects or anything tech-related!<br><br>
